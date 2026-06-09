@@ -40,7 +40,6 @@ jupyter notebook
 ## Project Structure
 
 - Notebooks are organized from foundational theory to advanced applications
-- Each notebook builds on concepts from previous sections
 
 ## Resources
 
@@ -50,14 +49,8 @@ For more on this work and related explorations, visit: https://antoneskov.com/ga
 
 This project is licensed under the MIT License - see [LICENSE](LICENSE) file for details.
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit pull requests or open issues for suggestions and improvements.
-
 ## Contact
 
 For questions or discussions, feel free to open an issue in the repository.
 
 ---
-
-*Happy exploring!*
